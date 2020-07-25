@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "431095407763",
+    "firebase_url": "https://myfirestore-8fed0.firebaseio.com",
+    "project_id": "myfirestore-8fed0",
+    "storage_bucket": "myfirestore-8fed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431095407763:android:2b9b08f358b9755e5e5966",
+        "android_client_info": {
+          "package_name": "com.example.hamarinotice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431095407763-jfk59qkc6q4faekbth7d3gicd9fjnt4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCWcnYF0u6L51BtyszftQTFYBloNgvx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431095407763-jfk59qkc6q4faekbth7d3gicd9fjnt4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431095407763:android:83ad474b6922e6845e5966",
+        "android_client_info": {
+          "package_name": "com.example.tutorfinderelearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431095407763-jfk59qkc6q4faekbth7d3gicd9fjnt4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCWcnYF0u6L51BtyszftQTFYBloNgvx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431095407763-jfk59qkc6q4faekbth7d3gicd9fjnt4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
